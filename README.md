@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZahinGausee)
 
-[![GitHub](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/ZahinGausee)
+[![GitHub](https://img.shields.io/github/followers/ZahinGausee?label=Follow&style=social)](https://github.com/ZahinGausee)
 
 Welcome to my GitHub profile! I'm Zahin Gausee, a passionate software developer with a keen interest in Web Development, JavaScript, React. I love coding and creating innovative solutions to real-world problems. Here, you'll find a collection of my projects and contributions.
 
