@@ -36,7 +36,7 @@ I'm always open to discussions, collaborations, or answering any questions you m
 
 - LinkedIn: https://www.linkedin.com/in/zahin-gausee.
 
-- Twitter: ZahinGausee.
+- Twitter: [ZahinGausee](https://twitter.com/ZahinGausee).
 
 Feel free to connect with me! 😄
 
