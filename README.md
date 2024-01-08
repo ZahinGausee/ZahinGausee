@@ -9,35 +9,19 @@ Welcome to my GitHub profile! I'm Zahin Gausee, a passionate software developer 
 
 ## 🔭 Projects
 
-- **Project 1:** [Brief description or tagline about your project]
+- **Project 1:** Spotify Clone---Vanilla-JS
 
-  - Repository: [Link to the repository]
+  - Repository: https://gauseezahin.freewebhostmost.com/
 
-  - Technologies used: [List the technologies, frameworks, or languages used]
+  - Technologies used: HTML, CSS and JavaScript
 
-  - Key features: [Highlight the main features or functionalities]
-
-- **Project 2:** [Brief description or tagline about your project]
-
-  - Repository: [Link to the repository]
-
-  - Technologies used: [List the technologies, frameworks, or languages used]
-
-  - Key features: [Highlight the main features or functionalities]
-
-- **Project 3:** [Brief description or tagline about your project]
-
-  - Repository: [Link to the repository]
-
-  - Technologies used: [List the technologies, frameworks, or languages used]
-
-  - Key features: [Highlight the main features or functionalities]
+  - Key features: A Musical App perfoms all the basic funcitonality like song playback, playlist management, dynamic albums from the folders, and responsive design.
 
 ## 🌱 Skills
 
 - Programming Languages: HTML, CSS, JavaScript, C, SQL.
 
-- Frameworks: REACT JS
+- Frameworks: REACT JS, EXPRESS JS
 
 - Databases: MySql, MongoDB
 
@@ -58,6 +42,13 @@ Feel free to connect with me! 😄
 
 ## ⚡ Fun Fact
 
-I'm a Hard Working and a Passionate Guy looking for a opportunity to work with you, and to gain experience. 
-Thank you!💗
+As an honest and diligent individual, I'm on the lookout for opportunities to dive into the world of web development. My passion for learning is the driving force behind my journey, and I'm committed to staying ahead in this dynamic field. Eager to contribute my skills and dedication to exciting and innovative projects. Let's build something amazing together!
+
+
+
+
+
+
+
+
 
