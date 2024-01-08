@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Zahin Gausee, a passionate software developer 
 
 - **Project 1:** Spotify Clone---Vanilla-JS
 
-  - Repository: https://gauseezahin.freewebhostmost.com/
+  - Repository: [ https://gauseezahin.freewebhostmost.com/](https://github.com/ZahinGausee/Spotify-Clone---Vanilla-JS)
 
   - Technologies used: HTML, CSS and JavaScript
 
